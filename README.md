@@ -1,6 +1,6 @@
 # AWS Cloud Projects
 
-A hands-on portfolio demonstrating practical experience with AWS cloud infrastructure, Linux server administration, monitoring, troubleshooting, deployment, containers, Kubernetes, and machine learning workloads.
+Hands-on AWS projects covering EC2, S3, IAM, EKS, CloudWatch, Linux administration, monitoring, troubleshooting, deployment, and ML workloads.
 
 ## ☁️ AWS Technologies
 
